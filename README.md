@@ -14,12 +14,12 @@ The projects in this course explore fundamental and practical applications of si
 
 | CA | Project Title | Description | Link |
 |----|---------------|-------------|------|
-| **CA1** | Basics | Introduction to MATLAB, least squares parameter estimation in linear systems, and radar distance detection. | [View](https://github.com/ParsaBukani/Signals-and-Systems/tree/main/Basics) |
-| **CA2** | Automatic License Plate Recognition | Multi-stage ALPR system implementing grayscale conversion, DFS-based segmentation, and template matching for Persian plates. | [View](https://github.com/ParsaBukani/Signals-and-Systems/tree/main/Automatic%20License%20Plate%20Recognition) |
-| **CA3** | Image Steganography & Infrared Target Tracking | Message embedding via LSB encoding and automated aircraft tracking in IR video using frame differencing and masking. | [View](https://github.com/ParsaBukani/Signals-and-Systems/tree/main/Image%20Steganography%20%26%20Infrared%20Target%20Tracking) |
-| **CA4** | Communication System Simulation & Diabetes Classification | Amplitude-coded bitstreams analysis for noise robustness and health data classification using SVM models. | [View](https://github.com/ParsaBukani/Signals-and-Systems/tree/main/Communication%20System%20Simulation%20%26%20Diabetes%20Classification) |
-| **CA5** | Fourier Analysis & Frequency-Based Communication | Frequency-shift keying (FSK) transmission simulation and frequency resolution analysis using the FFT. | [View](https://github.com/ParsaBukani/Signals-and-Systems/tree/main/Fourier%20Analysis%20%26%20Frequency-Based%20Communication) |
-| **CA6** | Radar Target Estimation & Musical Signal Synthesis | Estimation of target velocity and distance via Doppler shifts and automated musical note extraction from audio files. | [View](https://github.com/ParsaBukani/Signals-and-Systems/tree/main/Radar%20Target%20Estimation%20%26%20Musical%20Signal%20Synthesis) |
+| **CA1** | Basics | Introduction to MATLAB, least squares parameter estimation in linear systems, and radar distance detection. | [View](./Basics) |
+| **CA2** | Automatic License Plate Recognition | Multi-stage ALPR system implementing grayscale conversion, DFS-based segmentation, and template matching for Persian plates. | [View](./Automatic%20License%20Plate%20Recognition) |
+| **CA3** | Image Steganography & Infrared Target Tracking | Message embedding via LSB encoding and automated aircraft tracking in IR video using frame differencing and masking. | [View](./Image%20Steganography%20%26%20Infrared%20Target%20Tracking) |
+| **CA4** | Communication System Simulation & Diabetes Classification | Amplitude-coded bitstreams analysis for noise robustness and health data classification using SVM models. | [View](./Communication%20System%20Simulation%20%26%20Diabetes%20Classification) |
+| **CA5** | Fourier Analysis & Frequency-Based Communication | Frequency-shift keying (FSK) transmission simulation and frequency resolution analysis using the FFT. | [View](./Fourier%20Analysis%20%26%20Frequency-Based%20Communication) |
+| **CA6** | Radar Target Estimation & Musical Signal Synthesis | Estimation of target velocity and distance via Doppler shifts and automated musical note extraction from audio files. | [View](./Radar%20Target%20Estimation%20%26%20Musical%20Signal%20Synthesis) |
 
 ## Acknowledgements
 
